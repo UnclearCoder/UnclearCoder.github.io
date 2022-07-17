@@ -1,1 +1,6 @@
+# Build settings 
+layout: page
+markdown: kramdown
 theme: jekyll-theme-hacker
+title: "test"
+permalink: /https://unclearcoder.github.io/test/
